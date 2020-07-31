@@ -7,7 +7,7 @@ package com.longyun.algorithm.sorting;
  * 注意：
  *     每次循环只交换一次值，记录的是下标的值
  */
-public class SelectSort {
+public class SelectionSort {
     /**
      * @param arr 整形数组
      */
